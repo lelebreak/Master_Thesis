@@ -3,4 +3,4 @@ Master thesis submitted in fulfillment of the requirements for the degree of Mas
 
 Thesis title: Enhanced Kramers-Kronig Receivers.\
 Author: Daniele Orsuti\
-Supervisor: Prof. Luca Palmieri\
+Supervisor: Prof. Luca Palmieri
